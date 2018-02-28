@@ -1,6 +1,6 @@
 ## 扩展vue-cli搭建vue项目结构
 
-> 源文件src扩展 ：移除App.vue、添加视图文件、封装数据异步请求、注册自定义过滤器，[更多参见：](https://github.com/simplexcspp/vue_basis-02/issues/1)
+> 源文件src扩展 ：移除App.vue、添加视图文件、封装数据异步请求、注册自定义过滤器，更多参见：[src扩展](https://github.com/simplexcspp/vue_basis-02/issues/1)
 
 ## Build Setup
 
