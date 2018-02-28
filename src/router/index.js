@@ -2,7 +2,12 @@
 export default [
   {
     path: '/',
-    name: 'test',
+    name: 'test1',
     component: resolve => require(['../views/test/Test.vue'], resolve)
+  },
+  {
+    path: '/t2',
+    name: 'test2',
+    component: resolve => require(['../views/test/Test2.vue'], resolve)
   }
 ]
