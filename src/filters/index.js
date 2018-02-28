@@ -16,6 +16,7 @@ export const money = value => {
   }
 }
 
+// 获奖等级
 export const prizeLevel = (value) => {
   const price = {
     1: '一等奖',
